@@ -27,6 +27,9 @@ Figure 1. Circuit connection
 <img src="img/img2.jpg" lt="nrf52 and oled circuit connection" width="600" height="400">
 Figure 2. Circuit connection
 
+# Project Video
+[nrf52840 project youtube video link](https://www.youtube.com/watch?v=1aler7MwLzs)
+
 # References
 - [Connection](https://learn.adafruit.com/assets/68726)
 - [Oled pins](https://learn.adafruit.com/adafruit-oled-featherwing/pinouts)
