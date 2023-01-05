@@ -21,10 +21,10 @@ We used Visual studio code to run the file.
 # Connection
 Here we can se the connection 
 
-<img src="img/img1.jpg" lt="nrf52 and oled circuit connection" width="200" height="400">
+<img src="img/img1.jpg" lt="nrf52 and oled circuit connection" width="600" height="400">
 Figure 1. Circuit connection
 
-<img src="img/img2.jpg" lt="nrf52 and oled circuit connection" width="200" height="400">
+<img src="img/img2.jpg" lt="nrf52 and oled circuit connection" width="600" height="400">
 Figure 2. Circuit connection
 
 # References
